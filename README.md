@@ -1,11 +1,11 @@
-Project 0 Getting Started
+CUDA Getting Started
 ====================
 
-**University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
+**GPU Programming and Architecture**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Tristan Roman
+  * [LinkedIn](https://www.linkedin.com/in/tristan-roman/), [personal website](https://tristanash2000.wixsite.com/portfolio)
+* Tested on: Windows 10, i5-6600K CPU @ 3.50GHz, NVIDIA GeForce GTX 1060 6GB
 
 ### (TODO: Your README)
 
